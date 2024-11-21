@@ -1,64 +1,76 @@
 # FUNFACTS
-This repo code for funfacts
-# Random Fact Generator
 
-This is a simple single-page application that displays a random fact about the user when a button is clicked. The application is built using HTML, CSS, and JavaScript.
+Code for funfacts in this repo.
+
+# random-fact-generator
+
+This is a very basic web application that shows the user a random user fact when the button is clicked. Built with simple but effective HTML, CSS and JavaScript.
 
 ## Features
 
-- Displays a random fact from a predefined list.
-- Simple and clean user interface.
-- Responsive design.
+- A predefined number of fact is randomly displayed.
 
-## Technologies Used
+- Appealing web page and the interface is also quite clear.
 
-- HTML
-- CSS
-- JavaScript
+- User-friendly interface and responsive behavior.
 
-## Getting Started
+## Technologies used
 
-To get a local copy up and running, follow these steps:
+ - HTML
+
+ - CSS
+
+ - JavaScript
+ 
+## Getting started
+
+To get a local copy and run it on your own, follow these steps:
 
 ### Prerequisites
 
-You need a web browser to view the application.
+You require a web browser to be able to visualize and use the application.
 
 ### Installation
 
-1. Clone the repository:
+1. Clone the repo:
 
-    ```bash
-    git clone https://github.com/your-username/random-fact-generator.git
-    ```
+```bash
 
-2. Navigate to the project directory:
+git clone https://github.com/your-username/random-fact-generator.git
 
-    ```bash
-    cd random-fact-generator
-    ```
+```
 
-3. Open `index.html` in your web browser to view the application.
+2. Change the directory to your project folder:
+
+```bash
+
+cd random-fact-generator
+
+```
+
+3. You can start the application by opening ndex.html on your browser.
 
 ## Usage
 
-- Click the "Generate Fact" button to display a random fact about the user.
+- Press the ‘Generate Fact’ button in order to access random facts about the user.
 
 ## Customization
 
-- You can customize the list of facts by editing the `facts` array in `script.js`.
-- Modify the styles in `style.css` to change the look and feel of the application.
+- The facts list can be modified by changing the contents of the facts array located at script.js.
+
+- Changes could be made on style.css file to change how the application appears.
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+We appreciate any assistance you are willing to provide! Don’t hesitate to make a Pull Request.
 
 ## License
 
-This project is licensed under the MIT License.
+The project is protected via the MIT License.
 
-## Contact
+## Contact Information
 
-Your Name - [your-email@example.com](mailto:your-email@example.com)
+Your Name - [youremail@address.com](mailto:youremail@address.com)
 
-Project Link: [https://github.com/your-username/random-fact-generator](https://github.com/your-username/random-fact-generator)
+Work Plan
+
